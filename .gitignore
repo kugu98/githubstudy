@@ -11,7 +11,9 @@
 *.ilk
 *.map
 *.exp
-
+.idea/
+CMakeLists.txt
+cmake-build-debug/
 # Precompiled Headers
 *.gch
 *.pch
