@@ -5,7 +5,7 @@ int main() {
 
     printf("test2");
 
-    ptintf("test\n");
+    printf("test\n");
 
     return 0;
 }
