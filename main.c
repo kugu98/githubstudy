@@ -8,6 +8,7 @@ int main() {
     printf("test\n");
     printf("test3\n");
     printf("againstudy\n");
+    printf("lee\n");
 
 
     return 0;
