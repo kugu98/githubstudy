@@ -7,7 +7,7 @@ int main() {
 
     printf("test\n");
     printf("test3\n");
-
+    rain
 
     return 0;
 }
