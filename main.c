@@ -7,6 +7,7 @@ int main() {
 
     printf("test\n");
     printf("test3\n");
+    printf("againstudy\n");
 
 
     return 0;
